@@ -1,5 +1,7 @@
 # HEA-TabDDPM
 
+[![DOI](10.5281)](zenodo.21156835)
+
 Synthetic High-Entropy Alloy (HEA) dataset generation using the TabDDPM diffusion model.
 
 This repository accompanies our research on data augmentation for High-Entropy Alloy (HEA) property prediction. It provides the complete source code, trained model weights, configuration files, and synthetic datasets required to reproduce the reported results.
