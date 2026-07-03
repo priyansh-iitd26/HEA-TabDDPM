@@ -1,6 +1,6 @@
 # HEA-TabDDPM
 
-[![DOI](10.5281)](zenodo.21156835)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21156835.svg)](https://doi.org/10.5281/zenodo.21156835)
 
 Synthetic High-Entropy Alloy (HEA) dataset generation using the TabDDPM diffusion model.
 
