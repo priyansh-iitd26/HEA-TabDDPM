@@ -32,8 +32,8 @@ The repository contains:
 
 | File | Description |
 |------|-------------|
-| HEA_real.csv | Original experimental HEA dataset (1360 samples) |
-| HEA_synthetic_1300.csv | Synthetic dataset generated using TabDDPM (1300 samples) |
+| HEA_real.csv | Original experimental HEA dataset |
+| HEA_synthetic_1300.csv | Synthetic dataset generated using TabDDPM |
 
 ---
 
