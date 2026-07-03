@@ -138,5 +138,3 @@ allowing complete reproduction of the reported TabDDPM experiments.
 ## Acknowledgements
 
 This work builds upon the official implementation of TabDDPM by Yandex Research.
-
-```
